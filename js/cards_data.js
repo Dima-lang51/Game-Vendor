@@ -23,7 +23,7 @@ export const initial_cards = [
         'discount': '' 
     },
      {
-        'img': '../images/cards/FarCry6.jpg',
+        'img': './images/cards/FarCry6.jpg',
         'category': ['Action'],
         'name': 'Far Cry 6',
         'rating': 4,
@@ -34,7 +34,7 @@ export const initial_cards = [
         'discount': '-50%'
     },
     {
-        'img': '../images/cards/CallofDute.jpg',
+        'img': './images/cards/CallofDute.jpg',
         'category': ['Shooter'],
         'name': 'Call of Duty: Warzone',
         'rating': 3,
@@ -45,7 +45,7 @@ export const initial_cards = [
         'discount': '-50%'
     },
      {
-        'img': '../images/cards/WorldofWarcraft.jpg',
+        'img': './images/cards/WorldofWarcraft.jpg',
         'category': ['Action'],
         'name': 'World of Warcraft: Shadowlands',
         'rating': 3.5,
@@ -56,7 +56,7 @@ export const initial_cards = [
         'discount': ''
     },
      {
-        'img': '../images/cards/Fortnite.jpg',
+        'img': './images/cards/Fortnite.jpg',
         'category': ['Shooter'],
         'name': 'Fortnite',
         'rating': 4.5,
@@ -67,7 +67,7 @@ export const initial_cards = [
         'discount': '-50%'
     },
     {
-        'img': '../images/cards/Horizon.jpg',
+        'img': './images/cards/Horizon.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Horizon: Forbidden West',
         'rating': 4.5,
@@ -78,7 +78,7 @@ export const initial_cards = [
         'discount': ''
     },
      {
-        'img': '../images/cards/NeedforSpeed.jpg',
+        'img': './images/cards/NeedforSpeed.jpg',
         'category': ['Action'],
         'name': 'Need for Speed: Heat',
         'rating': 4.5,
@@ -89,7 +89,7 @@ export const initial_cards = [
         'discount': ''
     },
      {
-        'img': '../images/cards/SpiderManMilesMarales.jpg',
+        'img': './images/cards/SpiderManMilesMarales.jpg',
         'category': ['Action'],
         'name': 'Spider-Man: Miles Morales',
         'rating': 4,
@@ -100,7 +100,7 @@ export const initial_cards = [
         'discount': '-50%'
     },
      {
-        'img': '../images/cards/Witcher.jpg',
+        'img': './images/cards/Witcher.jpg',
         'category': ['Card', 'Game'],
         'name': 'Witcher 3: Wild Hunt',
         'rating': 5,
@@ -111,7 +111,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/CuardiansoftheGalaxy.jpg',
+        'img': './images/cards/CuardiansoftheGalaxy.jpg',
         'category': ['Shooter'],
         'name': 'Guardians of the Galaxy',
         'rating': 3,
@@ -122,7 +122,7 @@ export const initial_cards = [
         'discount': '-50%'
     },
      {
-        'img': '../images/cards/CrashTeamRacing.jpg',
+        'img': './images/cards/CrashTeamRacing.jpg',
         'category': ['Shooter'],
         'name': 'Crash Team Racing',
         'rating': 4.5,
@@ -133,7 +133,7 @@ export const initial_cards = [
         'discount': '-50%'
     },
     {
-        'img': '../images/cards/SpiderMan.jpg',
+        'img': './images/cards/SpiderMan.jpg',
         'category': ['Multiplayer', 'RPG'],
         'name': 'Spider Man',
         'rating': 4.5,
@@ -144,7 +144,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -155,7 +155,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -166,7 +166,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -177,7 +177,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -188,7 +188,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -199,7 +199,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -210,7 +210,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -221,7 +221,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -232,7 +232,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -243,7 +243,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -254,7 +254,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -265,7 +265,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -276,7 +276,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -287,7 +287,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -298,7 +298,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -309,7 +309,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -320,7 +320,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -331,7 +331,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -342,7 +342,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -353,7 +353,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -364,7 +364,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -375,7 +375,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -386,7 +386,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -397,7 +397,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -408,7 +408,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -419,7 +419,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -430,7 +430,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -441,7 +441,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -452,7 +452,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -463,7 +463,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -474,7 +474,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -485,7 +485,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -496,7 +496,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -507,7 +507,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -518,7 +518,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -529,7 +529,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -540,7 +540,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -551,7 +551,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -562,7 +562,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -573,7 +573,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -584,7 +584,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -595,7 +595,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -606,7 +606,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -617,7 +617,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -628,7 +628,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -639,7 +639,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -650,7 +650,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -661,7 +661,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -672,7 +672,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -683,7 +683,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -694,7 +694,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -705,7 +705,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -716,7 +716,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -727,7 +727,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -738,7 +738,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -749,7 +749,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -760,7 +760,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -771,7 +771,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -782,7 +782,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -793,7 +793,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -804,7 +804,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -815,7 +815,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -826,7 +826,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -837,7 +837,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -848,7 +848,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -859,7 +859,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -870,7 +870,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -881,7 +881,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -892,7 +892,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -903,7 +903,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -914,7 +914,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -925,7 +925,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -936,7 +936,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -947,7 +947,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -958,7 +958,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -969,7 +969,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -980,7 +980,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -991,7 +991,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1002,7 +1002,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1013,7 +1013,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1024,7 +1024,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1035,7 +1035,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1046,7 +1046,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1057,7 +1057,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1068,7 +1068,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1079,7 +1079,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1090,7 +1090,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1101,7 +1101,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1112,7 +1112,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1123,7 +1123,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1134,7 +1134,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1145,7 +1145,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1156,7 +1156,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1167,7 +1167,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1178,7 +1178,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1189,7 +1189,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1200,7 +1200,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1211,7 +1211,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1222,7 +1222,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1233,7 +1233,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1244,7 +1244,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1255,7 +1255,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1266,7 +1266,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1277,7 +1277,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1288,7 +1288,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1299,7 +1299,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1310,7 +1310,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1321,7 +1321,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1332,7 +1332,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1343,7 +1343,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1354,7 +1354,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1365,7 +1365,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1376,7 +1376,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1387,7 +1387,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1398,7 +1398,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1409,7 +1409,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1420,7 +1420,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1431,7 +1431,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
@@ -1442,7 +1442,7 @@ export const initial_cards = [
         'discount': ''
     },
     {
-        'img': '../images/cards/placeholder.jpg',
+        'img': './images/cards/placeholder.jpg',
         'category': ['Action', 'RPG'],
         'name': 'Dragon Age 5',
         'rating': 0,
