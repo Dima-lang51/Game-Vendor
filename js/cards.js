@@ -99,8 +99,8 @@ export let options = {
         popupOpen(curentPopup);
         e.preventDefault();
       })
-      document.querySelector('.paginationjs-prev').innerHTML = `<img class="pagination_arrows" src="../images/icon/arror_prev.svg"/>`;
-      document.querySelector('.paginationjs-next').innerHTML = `<img class="pagination_arrows" src="../images/icon/arror_next.svg"/>`;
+      document.querySelector('.paginationjs-prev').innerHTML = `<img class="pagination_arrows" src="./images/icon/arror_prev.svg"/>`;
+      document.querySelector('.paginationjs-next').innerHTML = `<img class="pagination_arrows" src="./images/icon/arror_next.svg"/>`;
 
   }
 };
