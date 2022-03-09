@@ -346,6 +346,7 @@ body.lock {
     height: 5px;
     background-color: #7F56D9;
     clip-path: polygon(20% 0%, 0% 20%, 30% 50%, 0% 80%, 20% 100%, 50% 70%, 80% 100%, 100% 80%, 70% 50%, 100% 20%, 80% 0%, 50% 30%);
+    cursor: pointer;
   }
 
   .block-select {
@@ -375,7 +376,9 @@ body.lock {
   }
 
   .text-select {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
     align-items: center;
     padding: 10px 0 10px 18px;
     background: #FFFFFF;
@@ -388,7 +391,7 @@ body.lock {
   }
 
   .text-select > p{
-    margin-right: 12.5vw;
+    margin-right: 3.5vw;
   }
 
   .search-icon {
@@ -750,6 +753,10 @@ body.lock {
   align-items: center;
 }
 
+.button__mb-showMore {
+  display: none;
+}
+
 
 .paginationjs .paginationjs-pages li{
   border: none !important;
@@ -1086,7 +1093,7 @@ input[type="file"] {
 }
 
 .form__list > li {
-  padding-bottom: 20px;
+  padding-bottom: 15px;
 }
 
 li > label {
@@ -1105,6 +1112,7 @@ li > textarea {
 
 .select2 {
   width: 100% !important;
+  height: 20px;
 }
 
 
@@ -1215,11 +1223,7 @@ figure:hover > figcaption {
 .category__block > div:nth-child(2) {
   display: none;
 }
-/*
-.text-select > .span-select {
-  margin-left: 133px;
-  margin-right: 8px;
-} */
+
 
 .list__item-card, .list__item-add {
   max-width: 304px;
@@ -1228,10 +1232,7 @@ figure:hover > figcaption {
 .item__card {
   max-width: 280px;
 }
-/*
-.cards__list {
-  grid-template-columns: repeat(3, 1fr);
-}*/
+
 
 .subscribe__input {
   width: 350px
@@ -1290,12 +1291,7 @@ figure:hover > figcaption {
   }
 
   .banner__img {
-    /*width: 517px;
-    height: 313px;
-    
-    top: 11px;*/
     right: -71px;
-    
     width: 67.3vw;
     height: 40.75vw;
     top: calc(324px - 40.7vw);
@@ -1319,14 +1315,6 @@ figure:hover > figcaption {
   .text-select > p {
     margin-right: 8.5vw;
 }
-/*
-  .text-select > .span-select {
-    margin-left: 10vw;
-  }*/
-  /*
-  .cards__list {
-    grid-template-columns: repeat(2, 1fr);
-  }*/
 
   .list__item-card, .list__item-add {
     max-width: 344px;
@@ -1534,7 +1522,21 @@ figure:hover > figcaption {
     padding: 0px 20px;
   }
 
+  .page__card-pagination {
+     display: none;
+  }
 
+  .button__mb-showMore {
+    display: block;
+    margin-bottom: 60px;
+    padding: 10px 0px;
+    border: 1px solid #D0D5DD;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+  }
 
 }
 

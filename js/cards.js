@@ -17,7 +17,7 @@ function renderTemplate(data) {
           <li class="list__item-card list__item-add">
               <p class="add__text">You can add a product card by clicking on the button</p>
               <button class="add__button">
-                  <img src="../images/icon/Plus_Circle.png" />
+                  <img src="./images/icon/Plus_Circle.png" />
                   Add card
               </button>
           </li>
