@@ -1,7 +1,7 @@
 export const initial_cards = [
     {}, /* blank card for adding card  */
     {
-    'img': '../images/cards/SaintsRow.jpg',
+    'img': './images/cards/SaintsRow.jpg',
     'category': ['Action', 'RPG'],
     'name': 'Saints Row',
     'rating': 0,
@@ -12,7 +12,7 @@ export const initial_cards = [
     'discount': '-50%'   
     },
     {
-        'img': '../images/cards/Paladins.jpg',
+        'img': './images/cards/Paladins.jpg',
         'category': ['Multiplayer', 'RPG'],
         'name': 'Paladins',
         'rating': 4,
