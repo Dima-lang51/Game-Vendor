@@ -715,7 +715,7 @@ body.lock {
     cursor: pointer;
   }
 
-.add__button:hover {
+.add__button:hover, .subscribe__btn:hover {
     background: #aba8ef;
   }
 
