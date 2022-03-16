@@ -188,15 +188,15 @@ body.lock {
     align-items: center;
 }
 
-.item__link {
+.item__link:hover {
+    color: #667085;
+}
+
+.munu__item {
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
     color: #101828;
-}
-
-.item__link:hover {
-    color: #667085;
 }
 
 
