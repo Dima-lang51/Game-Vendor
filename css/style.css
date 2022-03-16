@@ -168,6 +168,10 @@ body.lock {
     display: flex;
 }
 
+.outh__icon, .nav__logo {
+    cursor: pointer;
+}
+
 .outh__icon:not(:last-child) {
     margin-right: 40px;
 }
