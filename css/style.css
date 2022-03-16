@@ -297,6 +297,10 @@ body.lock {
     cursor: pointer;
   }
 
+.content__btn:hover {
+    background: #4cf290;
+  }
+
   .banner__img {
       position: absolute;
       right: 94px;
