@@ -715,6 +715,11 @@ body.lock {
     cursor: pointer;
   }
 
+.add__button:hover {
+    background: #aba8ef;
+  }
+
+
   .add__button > img {
     margin-right: 8px;
   }
